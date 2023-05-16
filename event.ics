@@ -1,0 +1,77 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Starburst Educational Services//NONSGML orbit.starburst.io//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+SUMMARY:Starburst Partner Technical Bootcamp (May\, 2023): Day 1
+DTSTART;VALUE=DATE-TIME:20230516T150000Z
+DTEND;VALUE=DATE-TIME:20230516T183000Z
+DTSTAMP;VALUE=DATE-TIME:20230515T123338Z
+UID:event-2p85mcl2aqp62@3mthjzsqcqliu.skilljar.com
+SEQUENCE:0
+CREATED;VALUE=DATE-TIME:20230515T123338Z
+DESCRIPTION:You are registered for the following event:\n\nStarburst Partn
+ er Technical Bootcamp (May\, 2023): Day 1\nFrom: May 16\, 2023 11:00 a.m. 
+ EDT\nTo: May 16\, 2023 2:30 p.m. EDT\nWhere: Virtual - US East\nInstructor
+ : salesenablementconferenceroom@starburstdata.com\n\nDay one starts with i
+ ntroductions to your fellow Bootcamp participants.  You will then particip
+ ate in an interactive discussion on Starburst features and data lake perfo
+ rmance best practices.\n\nPlease allow 2.5 hours after the live session fo
+ r a self-paced lab to reinforce the concepts learned throughout the day.\n
+ \nTo join this event\, visit the registration page below and click the lau
+ nch event button on the appropriate time and day:\nhttps://orbit.starburst
+ .io/starburst-technical-bootcamp-partner-live-sessions/54721\n\nYou may al
+ so use the above link to cancel your registration at any time.
+LAST-MODIFIED;VALUE=DATE-TIME:20230515T123338Z
+LOCATION:Virtual - US East
+ORGANIZER;CN="Starburst Orbit":mailto:partner-sa@starburstdata.com
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Starburst Partner Technical Bootcamp (May\, 2023): Day 2
+DTSTART;VALUE=DATE-TIME:20230517T140000Z
+DTEND;VALUE=DATE-TIME:20230517T190000Z
+DTSTAMP;VALUE=DATE-TIME:20230515T123338Z
+UID:event-2sbszbrguyqi5@3mthjzsqcqliu.skilljar.com
+SEQUENCE:0
+CREATED;VALUE=DATE-TIME:20230515T123338Z
+DESCRIPTION:You are registered for the following event:\n\nStarburst Partn
+ er Technical Bootcamp (May\, 2023): Day 2\nFrom: May 17\, 2023 10:00 a.m. 
+ EDT\nTo: May 17\, 2023 3:00 p.m. EDT\nWhere: Virtual - US East\nInstructor
+ : salesenablementconferenceroom@starburstdata.com\n\nThe day will focus on
+  table formats and Apache Iceberg.\n\nPlease allow 2.5 hours after the liv
+ e session for a self-paced lab to reinforce the concepts learned throughou
+ t the day.\n\nTo join this event\, visit the registration page below and c
+ lick the launch event button on the appropriate time and day:\nhttps://orb
+ it.starburst.io/starburst-technical-bootcamp-partner-live-sessions/54721\n
+ \nYou may also use the above link to cancel your registration at any time.
+LAST-MODIFIED;VALUE=DATE-TIME:20230515T123338Z
+LOCATION:Virtual - US East
+ORGANIZER;CN="Starburst Orbit":mailto:partner-sa@starburstdata.com
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Starburst Partner Technical Bootcamp (May\, 2023): Day 3
+DTSTART;VALUE=DATE-TIME:20230518T140000Z
+DTEND;VALUE=DATE-TIME:20230518T180000Z
+DTSTAMP;VALUE=DATE-TIME:20230515T123338Z
+UID:event-3tgdprp8xaui0@3mthjzsqcqliu.skilljar.com
+SEQUENCE:0
+CREATED;VALUE=DATE-TIME:20230515T123338Z
+DESCRIPTION:You are registered for the following event:\n\nStarburst Partn
+ er Technical Bootcamp (May\, 2023): Day 3\nFrom: May 18\, 2023 10:00 a.m. 
+ EDT\nTo: May 18\, 2023 2:00 p.m. EDT\nWhere: Virtual - US East\nInstructor
+ : salesenablementconferenceroom@starburstdata.com\n\nThe day will focus on
+  parallel processing\, the cost-based optimizer\, and data pipelines\n\nPl
+ ease allow 1.5 hours after the live session for a self-paced Data Pipeline
+  lab\n\nTo join this event\, visit the registration page below and click t
+ he launch event button on the appropriate time and day:\nhttps://orbit.sta
+ rburst.io/starburst-technical-bootcamp-partner-live-sessions/54721\n\nYou 
+ may also use the above link to cancel your registration at any time.
+LAST-MODIFIED;VALUE=DATE-TIME:20230515T123338Z
+LOCATION:Virtual - US East
+ORGANIZER;CN="Starburst Orbit":mailto:partner-sa@starburstdata.com
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
